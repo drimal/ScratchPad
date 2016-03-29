@@ -1,5 +1,5 @@
 
-# Useful Linux shortcuts 
+# Useful Keyboard shortcuts 
 
 # Ctl + Alt + Backspace
 
