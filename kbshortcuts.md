@@ -3,39 +3,30 @@
 
 # Ctl + Alt + Backspace
 
-    Use this shortcut when X isn't responding or a program has locked up your desktop and 
-    you can't get anything to respond. This combination instantly logs you out of X, taking
-    you back to the login screen. It works with all desktop environments and window managers.
+    Log out instantly if X isn't reponding. should work in all desktop environments and window managers.
 
 # Ctrl + Alt + Delete
-
-    This is the big kahuna. If all else fails and you just need to reboot, you can hit this 
-    combination to instantly start the reboot process. All data will be lost, so use it wisely. 
-    This combination works in all desktop environments and all window managers.
+    
+    Instantly start rebooting process. Be careful data will be lost, use it wisely. should works in all desktop 
+    environments and all window managers.
 
 # Alt + Tab
 
-    This handy shortcut allows you to cycle through all open windows, stopping on the window 
-    you want to have focus. In other words, you don't have to grab your mouse and click (or 
-    hover, depending upon your focus configuration) to give a window focus. To cycle through 
+    Cycle through all open windows and stop on the window you want to focus on. To cycle through 
     the windows, hold down the Alt key and then press the Tab key until you land on the window 
-    you want. This shortcut works in most desktop environments and window managers.
+    you want. works in most desktop environments and window managers.
 
 # Ctrl + Alt + F*
     
-    This is one of those mack-daddy shortcuts you very well might need to use. It switches to 
-    various virtual terminals. The default terminal you're working in is 6. So you can switch 
-    to another terminal by holding down Ctrl + Alt and hitting F1, F2, F3, F4, F5, F7, etc. Now 
-    these are virtual terminals, so if you already have a graphical interface going, you'll only 
+    Switches to various virtual terminals. The default terminal you're working in is 6. So you 
+    can switch to another terminal by holding down Ctrl + Alt and hitting F1, F2, F3, F4, F5, F7, etc.
+    These are virtual terminals, so if you already have a graphical interface going, you'll only 
     be able to work in a text-based terminal window. This is really good for debugging problems 
     with the desktop or killing frozen applications when you don't want to kill X completely.
 
 # Alt + Arrow key
 
-    If you're using Linux, you probably know about the pager that allows you to have multiple 
-    desktops at one time. Instead of having to move your mouse to the edge of a screen, you can 
-    hit Alt and either the left or right arrow key to move from one desktop to another. This 
-    works in all desktop environments and window managers. 
+    To move from one desktop to another. Works in all desktop environments and window managers. 
 
 # The following apply only to terminal (aka console) windows
 
